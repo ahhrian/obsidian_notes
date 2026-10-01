@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NUS/IEx/23 Sept Team Meeting.md",
+                "file": "NUS/IS4228/Key Formulae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23 Sept Team Meeting"
+              "title": "Key Formulae"
             }
           }
         ]
@@ -187,14 +187,16 @@
   },
   "active": "314ea52d953fa987",
   "lastOpenFiles": [
-    "NUS/IS4226/Strategy.md",
-    "NUS/IEx/23 Sept Team Meeting.md",
     "NUS/IS4226/Lecture 6.md",
+    "NUS/IS4228/Key Formulae.md",
+    "NUS/IS4228",
+    "NUS/IS4226/Order Types.md",
+    "NUS/IEx/23 Sept Team Meeting.md",
+    "NUS/IS4226/Strategy.md",
     "NUS/IEx",
     "Personal/PORTS Ingestion Script Handoff.md",
     "NUS",
     "NUS/IS4246.md",
-    "NUS/IS4226/Order Types.md",
     "Personal",
     "NUS/IS4226",
     "Pictures/Pasted image 20260824114126.png",

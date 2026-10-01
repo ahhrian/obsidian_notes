@@ -49,3 +49,14 @@ Event Based Backtesting:
 - More realistic simulation of the trading strategy (employs all the High, Low, Close, Open values????)
 	- More computationally heavy
 - Can decide whether your limit orders will actually be executed or not
+
+
+Ratios
+$Sortino \ Ratio = (Annual \ Return - R_f) \div Downside \ Std.  \ Dev.$
+- Downside Std. Dev. means take std. dev. of only the days with losses
+- Modified version of Sharpe Ratio (Don't count upsides as "risk", only the losses)
+$Calmer \ Ratio = Annual \ Return \ (CAGR) \div Max \ Drawdown$
+- Alternative measure for risk-adjusted risk (alternative to Sharpe ratio essentially)
+- Ratio of Annualised Returns & Max Drawdown ()
+$Treynor \ Ratio = (Annual \ Return - R_f) \div \beta_p$
+- Excess return (Return - $R_f$) for each unit of systematic risk taken
