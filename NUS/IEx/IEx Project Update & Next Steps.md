@@ -1,3 +1,4 @@
+### Meeting Notes, 23 Sept Sprint Update w/ Prof
 - Talk to Chongyao about whether he committed to implementing new features (Edit access, etc.)
 - Follow-up meeting with TCN after further additions to prototype
 	- Decide a date to meet them regarding update (ideally in a week or two)
@@ -43,3 +44,26 @@ Don't need to specify the SMART Framework so explicity, can just imply it when d
 - Can send the questions to TCN for pre-approval, and then they’ll set up for us, Harman to send his preferred timings
 - Volunteer opportunity for video clips
 - Handing out kits to caregivers
+
+
+### Next Steps
+>Project Management/Planning Related
+- Consolidate the suggested refinements (COMPLETE)
+- Determine Feasibility of refinements & how to approach them (TO DO)
+- Setup next meeting with TCN & plan agenda
+	- Suggested Agenda:
+		- Discuss our opinion regarding feasibility of suggested refinements
+		- Let them know how we are going to approach the changes & rough timeline
+		- Connect OneMap API w/ TCN Member's Singpass (currently using Aryan's singpass account)
+- Get Harman to plan for CP discussion w/ TCN
+	- Dates to record, upcoming events, interview dates, manpower requirements (teammates need to go down?)
+>Prototyping
+- Edit Cases Biodata Displayed Information
+	- Display Patient & Assigned Caregiver Pairs: Name, Language & Religion
+- Display Volunteer's Active Status (Active, On Break, Exit, etc.)
+	- **TODO:** Check if this information is available in Volunteer List, ask for it if needed
+- Implement GetActiveCases() function for Volunteers
+	- Count number of OPEN cases the Volunteer is already assigned to
+- Display More Information for Top 5 Volunteers (Cases Tab)
+	- Name, Gender, Languages, Travel Time, Availability, Religion, No. of Active Cases
+- Display Assigned Volunteers (Cases Tab)
